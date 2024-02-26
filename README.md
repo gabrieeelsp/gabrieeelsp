@@ -60,8 +60,8 @@ Si deseas ver más de mis proyectos, puedes visitar mi perfil en [GitHub](https:
 
 Puedes contactarme a través de:
 
-![Static Badge](https://img.shields.io/badge/Github%20-E84D31?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fgabrieeelsp) 
-![Static Badge](https://img.shields.io/badge/Linkedin%20-007AB5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrieeelsp%2F)
-![Static Badge](https://img.shields.io/badge/gabrieeelsp%40gmail.com-E34133?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3A%20gabrieeelsp%40gmail.com)
+<a href="https://github.com/gabrieeelsp">![Static Badge](https://img.shields.io/badge/Github%20-E84D31?style=for-the-badge&logo=github&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/gabrieeelsp/">![Static Badge](https://img.shields.io/badge/Linkedin%20-007AB5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:gabrieeelsp@gmail.com">![Static Badge](https://img.shields.io/badge/gabrieeelsp%40gmail.com-E34133?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ¡Espero poder colaborar contigo en futuros proyectos!
