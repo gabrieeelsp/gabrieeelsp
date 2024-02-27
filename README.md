@@ -39,7 +39,7 @@ Mis habilidades y conocimientos incluyen:
 
 Proyecto profesional, permite la utilización de distintas sucursales, centralizando la toma de pedidos y distribución. Cuenta también con control de stock en cada sucursal y facturación electronica.
 
-Demo: [link](https://plastitodo.gabrieeelsp.dev/)<br />
+Demo: [plastitodo.gabrieeelsp.dev](https://plastitodo.gabrieeelsp.dev/)<br />
 Usuario: admin@mail.com<br />
 Password: demo2024 <br />
 Youtube: [Demo](https://youtu.be/8G0f6uBhEU8)
@@ -50,7 +50,7 @@ Github: [Backend](https://github.com/gabrieeelsp/plastitodo_backend) [Frontend](
 
 Proyecto individual desarrollado en el cursado del bootcamp SoyHenry.
 
-Demo: [link](https://pokemon.gabrieeelsp.dev/)
+Demo: [pokemon.gabrieeelsp.dev](https://pokemon.gabrieeelsp.dev/)
 
 Github: [Backend](https://github.com/gabrieeelsp/pokemon-api) [Frontend](https://github.com/gabrieeelsp/pokemon-client)
 
