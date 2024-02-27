@@ -41,7 +41,8 @@ Proyecto profesional, permite la utilización de distintas sucursales, centraliz
 
 Demo: [link](https://plastitodo.gabrieeelsp.dev/)<br />
 Usuario: admin@mail.com<br />
-Password: demo2024
+Password: demo2024 <br />
+Youtube: ![Video de Ejemplo](https://youtu.be/8G0f6uBhEU8)
 
 Github: [Backend](https://github.com/gabrieeelsp/plastitodo_backend) [Frontend](https://github.com/gabrieeelsp/plastitodo_front_v5)
 
